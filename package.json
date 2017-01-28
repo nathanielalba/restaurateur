@@ -1,0 +1,17 @@
+{
+  "name": "generator-restaurateur",
+  "version": "0.1.0",
+  "description": "A yeoman generator to be used for scaffolding sites for restaurants",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Nate Alba",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  }
+}
